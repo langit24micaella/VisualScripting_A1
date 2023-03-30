@@ -1,0 +1,1334 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3C38407CDC69B96A9C50A4DA3B221DED3C77CB47",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A2C097021E9B39610D55033ED6D2A4F270CD9EC6",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "693F5D8441932DCA3C010659E10D80AA4CFED6FC",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D7D8117754FBCB3E6EAF4484CB55FBB0B7F49DB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "70184CFFFB116A6DED3282DDC17BBBB75B712D41",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3E88D05642439823638181EBE6EAD4401D3AFD46",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "2266C9E402E8BFB54E7D599DF2BE9C8C130D003F",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "11528503F2FADD1013D8803561433D655227459B",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "17AE3D86A09501D585721FA2DEE9909ECFE45EF3",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "31092181B2311DF8BFEFC02342BF71F96DDB0AC4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "390CDBF1087A3BD7F6C4AC756A31D2EFF50EB629",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EFA0ABFC95AAB7148BE65BAC8E4D403FA1C0640F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA0F6AC7299BB7FEB5AA62C8CF6E1B66AF8EC6B6",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A714AEA3AB59E5E1063F5B045D9645674EC299E9",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4131408FCDC8DBD3F5D0F64AD1F0D9AC3ED13F71",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDD9ADA24C2458F03EE9B1332FD26BB86BBD80AA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB6049078966B7E0BE2307A7474CF8D1CB2FB85",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DD30E89915AE2462924A4213E7BCDD2694D8C9AA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "172D354B2E688E8694B4B56AA1A24E7CE17FFAB6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F50CB4809F30B28444E9A8162646CD4396B7E073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE9EFACC4C3FB18F9DF805F9146228150B7FFD2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "A3425B7B6BE14F897DA870ADD0BA4C022D47C073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F5414245F4D31163D035B55938C5737CCEBB355E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "756823B80E02934AEFFBFFB5B3C64ECDEFEC5CF6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "D1CDE5662FED22405E7A4E13F4C26CCBBD37DEB7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "7AC6A1390AF3DBB7E84E8B4A480B7C7EA824BE87",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "14DAEDE5D017A5B05D9C06BE65F40ACF062368C6",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D004EBC46FA930DC5EEB476F7B9347C43CA9F1B",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "78B65C37765E95A0B8DBA0C072BEE3403C871CDA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8D4E9DEB8E73CD3762EB1B60D28353B51F2E41",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "12C1F1A235C8BA81EC4F2D0CFB449FF28BCCEE3F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24C433FACF74298D2606D7B0639A88B8B135B9A2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "4EC4FC6E105C9D77EB2CDA65742B748BE1BFDADE",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Materials/M_Wraith_Upperbody",
+				"/Game/ParagonWraith/FX/Materials/Heroes/Wraith/M_Wraith_Upperbody"
+			]
+		},
+		{
+			"ShaderMapHash": "EB8078FDA4DAA595427D7680330BD1059A56F104",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Materials/M_Wraith_Upperbody",
+				"/Game/ParagonWraith/FX/Materials/Heroes/Wraith/M_Wraith_Upperbody"
+			]
+		},
+		{
+			"ShaderMapHash": "759D1D9A250091580C04EF54FE268127F0FA8B8D",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Materials/M_Wraith_Lowerbody"
+			]
+		},
+		{
+			"ShaderMapHash": "5D99CC9B5A35F21D9E71C8DD5F803310CB7784F1",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Materials/M_Wraith_Lowerbody"
+			]
+		},
+		{
+			"ShaderMapHash": "2E6DCB00BA8AAFAD23479A956000D021A9D7CF77",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Materials/M_Wraith_Gun"
+			]
+		},
+		{
+			"ShaderMapHash": "62E039B5BF82503225861C9F84774DE07F4566FA",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Materials/M_Wraith_Gun"
+			]
+		},
+		{
+			"ShaderMapHash": "06EE269923FCB0F9D38D8B5AFC0417518D070D03",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Materials/M_Wraith_Backpack"
+			]
+		},
+		{
+			"ShaderMapHash": "6600F6A4A732DFB675240A0E435A7464548325AF",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Materials/M_Wraith_Backpack"
+			]
+		},
+		{
+			"ShaderMapHash": "A06660B213E4EFB006A2D10E98139621BF23554F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
+			"Assets": [
+				"/Game/ThirdPerson/Meshes/RampMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "EDA7A6D577EB0133614EB81AE0881C3D66CE5B54",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "D7497840AC137E8C8AAC0D731C7CCB3ADD279DB2",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "4824F604A30BC5219EF292894E6D5B0B1C2A7380",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "3B23D7BA68647DF0DD1CB3A63FA8D22B900CE602",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "3E58ADAE4C06CCC672ECE98A6BA8E0A8BCDBBB69",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "988096A1539C5A5F39CF1958345652A3F759D375",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "7293F4B212935DCC0A57547B03C953D24AE814D5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "888FA0F09A6717FBC98CAEA29DA8E745A869D8EE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "B9FC330B84198BA79D67AD1358AFFACA8C3FD7EB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "C24FE033C05120AF73E349FD63A2638164A53D4C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "3712AA3719AC40F15F0B6201641EDA31DF0299FC",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "CA53281C24BF05C15884E42781EE472783EA3D23",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "C18B0705EDD0E0EC7867E99442036D241A1B5054",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "D84EAA355BD6EA7CA37A421A0E89C35DADD656C9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "3536604E0C86AD97F1445377CBA5222E0BD519F5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "1C5341AA65E618F58BACDDD914ED88400BF3C356",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "A34E9513E1507B85D1D30BAC49FB511AF7B3F1BF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "2662B834334F1595D47E66B5DAABFDCC1F91834D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "4C677C082F3DCF98507A60C0927AC77006E2DA72",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "404BCC74169AB1E5D79193B91B9B8C7EAA05CB3B",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "64EF441563B4E2652896675A9341549B2DB88E26",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "485725C82E671F793EADB7FCBDC3AAF92C509141",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "848A095CBE87B1E6B661EA3518348DA9C6DF4A64",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "A7F6ADE573DFB03C2EC79714CBE64F86A8AD2E53",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "403BE01FED35672468C59021EDD516BBF0154AC5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "5FFD26758DDB5C02FE521CB7DC1BC4DD1900DFAD",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "192F650EEF30F58A8E64686C37FCC6D3B0EB6741",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "05079645DDCF124612D45FD5B0886A99280BAD81",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "83805D518E3F66AFBE011BE09A6674C65A8DF4F3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "CE546EFAB8F791D26B9314F9FEEABA379CCCABA9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "E278A89516B616AFDCD4CE707E3C2C33A854F2B7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "000FA9ABDD5BCFDE0E7B827F20D206074D2A1819",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "E280CADBB1F905A427BA1FA696C45EBB5E56238F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "EE5C779A86755473406ED05E9E7490306F8F5F67",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "00ACD0B43BEB9AE01C373EBB8D2FFA362E9E34ED",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "D759BD80381B59F9597345BC0B20E373FF0EA3D0",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "7E399F23D721F54A0D97D123548387ACA5389207",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "E5A2A38F8DE5EBC5BFE0666AB88236957704957F",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "64053DD20DD55BBB893B8CFCDF467A2FE0702D59",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "A9223EF722A1976F02E4844188B2E458A701146B",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "2E8420907651514121F81FBBC05B805804ECB455",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "2E03A16FC9B8D6F43D7EE3677CA7C5683BC7CFD9",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "C2F3D6DA7DD6D5C19039244238EBE580DD484B3D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "4808F2C13D119176F2E8C48220A0C41C36814F04",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "73675733B6C9FB625BD19471C448920CFCC717FE",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "5FB583605FAD51777093E020EDE159CC4A7441AB",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "13B9C1BFAE87A304BD7E1C7C6112EEF4A5AA66A5",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "DB4A6E58D03435E971AEBB01A0B5F65BA94DCCD5",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "CBE1B9A36802EF5FE309B1F94BBC5001044B3DF3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "7875DE8D2E60F0FEC44D3EF441472166EBC11041",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "BEC82E0E9F7F980E52C66AC59BE225CB3ED0EE9A",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "F54906C80055D636BC39802D22A7721B7F62D200",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AC50A361793F211DA25EF5F9C6DCE6EBCBF32171",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "FBE6507D74A90CAF1D9703878E705BBEE6857E3C",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid",
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "12A4CD629A96EC736B1DCD9D15D13675DC93FDE4",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "7DCD77054A53363F7D91F653DCC448DFB99D8FE2",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "A165473EE0B6F49CBE44CF9DCD8C65DD55ED9812",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "893F8F1F6C760007BF51EF77408B7D971FA8B7CB",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Maps/BackGroundAssets/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "A6A0B5B7673F07D4BAE936A6211EDE11BAF381C6",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Upperbody_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "BB39ECB35F7E9BEE2707E3E14A70F1580BB20EDD",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Upperbody_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "C2FA5249E5AE138EFF0B1CC1C45CE850115E1BFD",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Upperbody_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "89F5CF9064F7EBB018A8007F0405BE655E505DEB",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Lowerbody_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "5810B97BA0792E007407911F9954E116D1643A1B",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Lowerbody_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "2101D5DFFFBA0CA36534FF9B600A2BDB110E5DE6",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Lowerbody_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "5F22700D2370015D0F8DE5EE85F5BBC0924C05B8",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Gun_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "F156BDAB22F0AA2FDB0C963657B8F5138BAFC90C",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Gun_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "AA4B1B91461A51CBC7E44CF74B9875F338DBD778",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Gun_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "527A3B98E0FEE37C21AB905C83F04F5C70B6C984",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Backpack_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "DE303E8E90ED45E0A4080C59A1DD49B20C95F905",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Backpack_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "95A22BBD81AEE0644D0B14A094CD72AFCACA102F",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Backpack_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "48F1A1A7F48E45D26EC1A20F84CAF08F5D59DBB6",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Attachment_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "F6CFDF1D87A364210F657743828F7CC560A59FD6",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Attachment_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "637A2BA9E323CE0DDD3C1CB8BAF0DA7E22100BAE",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/ODGreen/Materials/M_Wraith_Attachment_ODGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "AC14DCC3803F11E0F4C0018B93E506DAB424B334",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
+			]
+		},
+		{
+			"ShaderMapHash": "2C237BEDF9E78C79C769DC344EF2035D46731BBE",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Maps/BackGroundAssets/M_HDRSky"
+			]
+		},
+		{
+			"ShaderMapHash": "67431B0769D85AEC2549906295A9BD7ED55945C9",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Upperbody_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "0B8E00EC548D8200826248C6E6D308EC2832FBB4",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Upperbody_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "ACFCD59FB3E261D56B411954AB3F6A4D18D8CE13",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Lowerbody_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "19F727E7D288A9355CA1313333EDEFAF80E3540E",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Lowerbody_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "E10E88A39B9CC9451596BA3CBC017E5CD13AC5A2",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Gun_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "990C6C8F47A321012254441E45D08E06564CAC25",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Gun_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "851F945B16D6B7D064D3799A91968D2060DD9C6B",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Backpack_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "F4224F938EC20074F1FBBFD20FCFCBA639FC4251",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Backpack_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "454F18CD0821D96D89DF4BEBB7C438F358A02E9D",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Attachment_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "6C3F3611798B15915D31E3B15505AF4B0177BD49",
+			"Assets": [
+				"/Game/ParagonWraith/Characters/Heroes/Wraith/Skins/LunarOps/Materials/M_Wraith_Attachment_LunarOps"
+			]
+		},
+		{
+			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
+			"Assets": [
+				"/Game/Mannequin/Character/Materials/M_Male_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
+			"Assets": [
+				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "4098AA338AFA5ED1E5C080E07ECBB65B5576EC27",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "0C8640007F68F568FB0B7D36A50085965B53F819",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "D350804326C7235317B41F7417B108D51B8081B4",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain"
+			]
+		},
+		{
+			"ShaderMapHash": "BF92B7BC41D29173E343A98248B5D6704727787C",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "6C80021D77B7FBE5BA85056BEC9D641E61C28711",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "0229ADA9A973090D936E93410D724337EE4AD624",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "ED6C71D937C4B2CCCF8484A39273C969BB5F7AD7",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "237E51E494F39D873FE8943B0EB946EBD32B5619",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "039A91F25D4D3C75E91D1CFBA4AFA4EC135038A6",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "4DDDFC346016AB4D647E6EABB7131FEE20A4FCB3",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Meshes/Splines/M_Spline_Preview"
+			]
+		},
+		{
+			"ShaderMapHash": "AB4A570F37C66918EE40CD9FA16B7D5080F357ED",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Spline_Light_Scanner"
+			]
+		},
+		{
+			"ShaderMapHash": "021812B97A922B1B823211E1AD6A916D249CB991",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Hotdog_Spline_Laser"
+			]
+		},
+		{
+			"ShaderMapHash": "12B41BDC42733ECBC1D4D89A292625B83D9D053C",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Wraith_Tech_Holo_Flicker_Spline"
+			]
+		},
+		{
+			"ShaderMapHash": "BE407B93BCDCF4FE9427CBD361F846AA08206943",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_GlowPoint_CameraFacing"
+			]
+		},
+		{
+			"ShaderMapHash": "B6894F39E5C7A4F822662FB5B2FB21AA2DD1F0D1",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_ShadowPlane_Hex"
+			]
+		},
+		{
+			"ShaderMapHash": "2DD12A535748F6633A9C428EF0CA977146D2CCF5",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Flares/AirGlows/M_Recall_GlowingDots"
+			]
+		},
+		{
+			"ShaderMapHash": "0819E76D7B83900073C47E52AABFC4B22B8D2E44",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Flares/M_Lensflare_TB_SoftGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "597D7EC0D08DEAE9DF3483B6A3A892FEF15FD5A8",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Flares/M_DarkFlare_DistShrink"
+			]
+		},
+		{
+			"ShaderMapHash": "72056CBCF4AFA0F56BD2EB4FF34A1A5A8AB8C709",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/Wraith/FX/M_Screen_Triangles"
+			]
+		},
+		{
+			"ShaderMapHash": "741EC3FE4551D8CB5E7075C2D999327DC2AC585D",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/Wraith/FX/M_CameraLens_Teleporting"
+			]
+		},
+		{
+			"ShaderMapHash": "977754C622A15BA9B5ED35EF4045455AD5B91275",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Wraith_Tech_Holo_Spline"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFDC8084909928CC642F4F43FDB1F93FE022F64",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Holo_Display_02_FlickerIn"
+			]
+		},
+		{
+			"ShaderMapHash": "E99472A15104B9BC77A0979B192CA7803DFBE7C9",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Trails/M_Bullet_Trail"
+			]
+		},
+		{
+			"ShaderMapHash": "2AD54E40759E9FCBF9160990D32E874358FC20C7",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
+			]
+		},
+		{
+			"ShaderMapHash": "E4BC4CC953284DA69B835EB2C147E66E74C90CFE",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Holo_Display_FlickerIn"
+			]
+		},
+		{
+			"ShaderMapHash": "6E188C668A78B6E22B339412F0A1998A50C1B8B2",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Flares/M_Lensflare_TB_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "E65D0E8D3122922FB883D6E8F11D26D8B33277EB",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Tech_Holo_Spline_WPO"
+			]
+		},
+		{
+			"ShaderMapHash": "C783ECE6E7F962E77B903696B66B68C531C56762",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Wraith_Halo"
+			]
+		},
+		{
+			"ShaderMapHash": "761B3B70F5F36846B1EAB78FAAD7A709F6BD93F5",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Glitch_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "9F7BC5661491310645CE358A222F9DA50F769CAE",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Tech/M_Holo_Reticle_FlickerIn"
+			]
+		},
+		{
+			"ShaderMapHash": "2C6DAFA013CE96CD1AE35F437A45F32418129450",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Energy_Ripple_Spline2"
+			]
+		},
+		{
+			"ShaderMapHash": "4FAE6748090EB2FA9FECDE6E6C2AC304B7042937",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Flares/M_LensFlareMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "DC9BA196DCE6148071BDC7520E6B648BFC93A1FD",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Flares/M_LensFlare_Particle",
+				"/Game/ParagonWraith/FX/Materials/Flares/M_LensFlare_Particle_01"
+			]
+		},
+		{
+			"ShaderMapHash": "6B70A03A6B0F95664655E7ED0BACCF15F8B261EB",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "59A181FDB675068A53B16164F6E48D09CDE866FB",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/DirectionalLit/M_ResidualMuzzleSmoke_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "CD6C5D7CA2F64E0303DE1CABA830D67350973B2A",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/M_WispySmokeTest"
+			]
+		},
+		{
+			"ShaderMapHash": "ADF495E0F943C2B1EE13C0132E0DF249106A9577",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Thruster_Cone"
+			]
+		},
+		{
+			"ShaderMapHash": "21D5DE057669856F90020D3C5F18C167E4647C7E",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Jet_Mesh"
+			]
+		},
+		{
+			"ShaderMapHash": "6E316EE415E3242FCD05787681AC8EAFBABE6B13",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/HeatDistort/M_Shockwave_Refract"
+			]
+		},
+		{
+			"ShaderMapHash": "0BE034778E48E87F161E575DD39AEB48C8C34446",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Sparks/M_Hotdog_VLerp_DirectionTint"
+			]
+		},
+		{
+			"ShaderMapHash": "2C358164F0B1BD122108D7BDF0D0C43EB4D5DB7A",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/MaterialFunctions/M_Tri_Test"
+			]
+		},
+		{
+			"ShaderMapHash": "C70A7E41A263FEF9D508F0C7E07E6E61A769B6D5",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Flares/M_GlowPoint_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "3A73DE48BA3F822AF795F328C609A21019AA3E55",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Ult_Bullet_Pyramid"
+			]
+		},
+		{
+			"ShaderMapHash": "76F915DAA495A018F158569782AD0D63297F37DA",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Large_Bolt"
+			]
+		},
+		{
+			"ShaderMapHash": "A68E9DDC780D4BB97F5FCF0802F806C3603D2515",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Wraith_Projectile_Ribbon"
+			]
+		},
+		{
+			"ShaderMapHash": "B65D5707EE746D417BB88F5CB093585D7EE4B4CA",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Wraith_Muzzle_Flash"
+			]
+		},
+		{
+			"ShaderMapHash": "B5E2ADEE80098E903A827E8D2C15CE4DD1908028",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Water/Hydro/M_Wraith_Water_Particles",
+				"/Game/ParagonWraith/FX/Materials/Water/Hydro/M_Hydro_Water_Particles_Body_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "84658F481361143D87B6FB0749075215A8F28485",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Water/M_Water_Drops_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "5BCEF5336D320A653BFAC0ACA8E451D7945FDC35",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Water/M_WaterImpact_Strand_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "CB7D0D7CBBB42218F1A6D2CA4D51C0A941CD5350",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Water/M_WaterImpact_Cylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "DF077C102A62BF08C0D3940671EB3658875B2349",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Water/M_WaterBubbles"
+			]
+		},
+		{
+			"ShaderMapHash": "34AAA73A02DCCF8C8342CC68D3BB715E4712481C",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/Hyperbreach/M_Smoke_Offset_Particles_SubUV_LIT"
+			]
+		},
+		{
+			"ShaderMapHash": "F9E4AAF23BD49F586E29C231522AECD7CE8B2687",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/DirectionalLit/M_Directional_Lit_DepthSmoke_Master",
+				"/Game/ParagonWraith/FX/Materials/Smoke/DirectionalLit/M_Directional_Lit_Depth_Smoke_Spikey_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "6F87A2FD79BB51A00E0A8B3978AD2EAC2DB13125",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/DirectionalLit/M_Directional_Lit_Depth_SmokeElement_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "224D60C823D4F6AD5FE076EE9F4D094388A75C13",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Environment/Water/M_WaterRipple_Mesh_Foam"
+			]
+		},
+		{
+			"ShaderMapHash": "58C9EC3663EF4DB43004A1ABC7F75D1169CD13BF",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Teleport_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "41BD6267D05F44F88DCA37D803AEFE2E7001501F",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_Spark_VelocityLerp_TeamColor"
+			]
+		},
+		{
+			"ShaderMapHash": "115ED6B199D020EF077363BFDF2998C695149C17",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Sparks/M_Spark_VelocityLerp_WorldColor"
+			]
+		},
+		{
+			"ShaderMapHash": "77D47C53E682E574AD60AA5AADA9FD980C54858E",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Debris/M_Explosion_RockChunks"
+			]
+		},
+		{
+			"ShaderMapHash": "311D5E9F4C08E9B1AD2E00B6961C4A405BF87219",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Shockwaves/M_Shockwave_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "742D011A444BEFE40740D0DCF7EBCCAC56EF4D01",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/M_SmokeEnergy_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "F25BD8E37A2E0CF152172A9CF55BC23284691CD2",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/Spline/M_Smoke_SplineMesh_Trail"
+			]
+		},
+		{
+			"ShaderMapHash": "87B9773CDDD8155271CA7360023F5CA03FE3B993",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/VolumeFog/M_Fog_SphericalDensity"
+			]
+		},
+		{
+			"ShaderMapHash": "4E7FD085AD7625BB6C6D14FAB1756DB5436E7E68",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/VolumeFog/MI_Fog_SphericalDensity_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "7DDDD3D280511A727EFEECD2603CC68B4C27F912",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Heroes/Wraith/FX/M_Wraith_Drone_ElectroField"
+			]
+		},
+		{
+			"ShaderMapHash": "2C341135FACA963C02933ABED724445B7D5A9F2D",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/M_ShadowPlaneShimmer"
+			]
+		},
+		{
+			"ShaderMapHash": "A655A08287BA01631F1C650480FF6D4A0C0A8062",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Water/M_WaterMist"
+			]
+		},
+		{
+			"ShaderMapHash": "4490B78F9AB1944501946887160A658ED5FABDDB",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/WispySmokeSoft/M_WispySmokeSoft"
+			]
+		},
+		{
+			"ShaderMapHash": "82EC31E76628ABC61EBF3FCAFAC5F309E564E036",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/M_SoftSmoke_Emissive_FakeLit"
+			]
+		},
+		{
+			"ShaderMapHash": "6E6503EF2C4A79CB59277F2F764F561E0A40D682",
+			"Assets": [
+				"/Game/ParagonWraith/FX/Materials/Smoke/M_LingerSmoke_MasterAdditiveWarp_EmissiveParticleColor"
+			]
+		}
+	]
+}
